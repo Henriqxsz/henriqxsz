@@ -1,5 +1,6 @@
 
-Hello, I'm Pedro!
+## Hello, I'm Pedro!
+
 
 -  I’m currently working on full-stack ...
 -  I’m currently learning php ...
