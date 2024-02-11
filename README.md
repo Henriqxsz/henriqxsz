@@ -1,11 +1,8 @@
 
-## Hello, I'm Pedro!
+## Olá, eu sou o Pedro
 
 
--  I’m currently working on full-stack ...
--  I’m currently learning php ...
--  I'm looking for an internship ...
--  Fun fact, I'm studying Spanish and English
+-  Eu sou um desenvolvedor Front-end, com habilidades em React e Angular
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Henriqxsz&show_icons=true&theme=dark&count_private=true)
 
